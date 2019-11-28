@@ -1,6 +1,5 @@
 *.class
 build/
-gradle/
 gradlew
 gradlew.bat
 *.iml
